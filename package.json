@@ -1,0 +1,21 @@
+{
+  "name": "to-do-app-back",
+  "version": "1.0.0",
+  "description": "server side of a to-do list project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MJ",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "body-parser": "^1.19.2",
+    "config": "^3.3.7",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "express-useragent": "^1.0.15",
+    "mongoose": "^6.2.1",
+    "nodemon": "^2.0.15"
+  }
+}

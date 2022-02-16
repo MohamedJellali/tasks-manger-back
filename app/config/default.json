@@ -1,0 +1,4 @@
+{
+  "MONGO_URI" : "mongodb+srv://MJ:123abc@clustergalactech.lfs2h.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "privateKey" : "0e670fe65859b2a08427ac1595c17fc96bb118da"
+}
